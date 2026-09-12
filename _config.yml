@@ -1,0 +1,14 @@
+remote_theme: pages-themes/hacker@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-readme-index
+
+title: DZ-10-09-2026
+description: Домашнее задание
+show_downloads: false
+
+readme_index:
+  enabled: true
+  remove_originals: false
+  with_frontmatter: false
